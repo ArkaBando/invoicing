@@ -1,0 +1,23 @@
+<aside class="main-sidebar">
+    <section class="sidebar">          
+        <ul class="sidebar-menu">
+            <li class="treeview">
+				<a href="orders.php">
+                    <i class="fa fa-dashboard"></i><span>Orders Master</span>
+                </a>
+				<a href="home.php">
+                    <i class="fa fa-dashboard"></i><span>Customers Master</span>
+                </a>
+				<a href="category.php">
+                    <i class="fa fa-dashboard"></i><span>Category Master</span>
+                </a>
+				<a href="cpyprofile.php">
+                    <i class="fa fa-dashboard"></i><span>Company Profile</span>
+                </a>
+				 <a href="logout.php">
+                    <i class="fa fa-dashboard"></i><span>Logout</span>
+                </a>
+            </li>
+        </ul>
+    </section>
+</aside>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <item>
+        <ad_title>Title xml add</ad_title>
+        <ad_description>Webber</ad_description>
+        <ad_category>27</ad_category>
+        <ad_country>France</ad_country>
+    </item>
+    <item>
+        <ad_title>Title xml add</ad_title>
+        <ad_description>Webber</ad_description>
+        <ad_category>27</ad_category>
+        <ad_country>Saudi arab</ad_country>
+    </item>
+</root>
